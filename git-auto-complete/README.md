@@ -1,4 +1,4 @@
-As developers, we all know the importance of efficiency and productivity in our daily tasks. For those of us using Git on macOS, I have a valuable tip that can significantly boost your Git workflow – enabling Git tab autocomplete! 🚀
+As developers, we all know the importance of efficiency and productivity in our daily tasks. For those of us using Git on macOS or a Linux, I have a valuable tip that can significantly boost your Git workflow – enabling Git tab autocomplete! 🚀
 
 ### What is Git Tab Autocomplete?
 
