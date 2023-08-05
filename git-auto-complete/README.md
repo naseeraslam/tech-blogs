@@ -20,7 +20,7 @@ Add the following line at the end:
 ```
 source ~/.git-completion.bash
 ```
-Save the file and exit the text editor.
+Save the file and exit the text editor with ctr+X Then click Y.
 
 Apply the changes:
 ```
@@ -34,7 +34,7 @@ If you're using the Zsh shell (which is the default on new Macs), enable Git tab
 
 Open ~/.zshrc file:
 ```
-~/.zshrc
+nano ~/.zshrc
 ```
 Add the following line to your ~/.zshrc file:
 ```
