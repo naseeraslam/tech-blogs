@@ -3,21 +3,21 @@
 A simple **PHP CLI tool** to check SSL certificate details for any domain.
 
 ## Features
-- Fetches SSL certificate details for a given domain
-- Displays certificate validity period
-- Shows issuer (Certificate Authority)
-- Extracts organization and email (if available)
-- Works in both **CLI mode** and **web mode**
+- Fetches SSL certificate details for a given domain.
+- Displays certificate validity period.
+- Shows issuer (Certificate Authority).
+- Extracts organization and email (if available).
+- Works in both **CLI mode** and **web mode**.
 
 ## Requirements
-- PHP 7.4 or later
-- OpenSSL extension enabled
+- PHP 7.4 or later.
+- OpenSSL extension enabled.
 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ssl-cert-checker.git
-   cd ssl-cert-checker
+   git clone https://github.com/naseeraslam/tech-blogs.git
+   cd ssl-certifcate-checker
    ```
 2. Ensure PHP is installed and accessible via the command line:
    ```sh
@@ -74,4 +74,3 @@ Pull requests are welcome! If you find any issues or want improvements, open an 
 
 ## Author
 - **MUHAMMAD NASEER ASLAM** - [GitHub Profile](https://github.com/naseeraslam)
-
